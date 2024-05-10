@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "8962",
+    "rcdTimeStamp": 1715266862544,
+    "lastPrice": 21957.5,
+    "updatedTime": "2024-05-09T10:40:00.000Z"
+  },
+  {
+    "id": "d697",
+    "rcdTimeStamp": 0,
+    "lastPrice": 0,
+    "updatedTime": 0
+  },
+  {
+    "id": "3f1c",
+    "rcdTimeStamp": 1715326761818,
+    "lastPrice": 22008.95,
+    "updatedTime": "2024-05-10T07:37:00.000Z"
+  },
+  {
+    "id": "a8b6",
+    "rcdTimeStamp": 1715326791727,
+    "lastPrice": 22010.15,
+    "updatedTime": "2024-05-10T07:37:00.000Z"
+  },
+  {
+    "id": "de55",
+    "rcdTimeStamp": 1715326821752,
+    "lastPrice": 22016.9,
+    "updatedTime": "2024-05-10T07:38:00.000Z"
+  },
+  {
+    "id": "5604",
+    "rcdTimeStamp": 1715326851729,
+    "lastPrice": 22014.95,
+    "updatedTime": "2024-05-10T07:38:00.000Z"
+  },
+  {
+    "id": "22c9",
+    "rcdTimeStamp": 1715326895731,
+    "lastPrice": 22007.4,
+    "updatedTime": "2024-05-10T07:39:00.000Z"
+  },
+  {
+    "id": "fa61",
+    "rcdTimeStamp": 1715326955826,
+    "lastPrice": 22001.3,
+    "updatedTime": "2024-05-10T07:40:00.000Z"
+  },
+  {
+    "id": "2ecf",
+    "rcdTimeStamp": 1715327015740,
+    "lastPrice": 21996.9,
+    "updatedTime": "2024-05-10T07:41:00.000Z"
+  },
+  {
+    "id": "fbfb",
+    "rcdTimeStamp": 1715327075647,
+    "lastPrice": 21993.45,
+    "updatedTime": "2024-05-10T07:42:00.000Z"
+  },
+  {
+    "id": "936a",
+    "rcdTimeStamp": 1715327135605,
+    "lastPrice": 21993.75,
+    "updatedTime": "2024-05-10T07:43:00.000Z"
+  },
+  {
+    "id": "30fe",
+    "rcdTimeStamp": 1715327195546,
+    "lastPrice": 21989.5,
+    "updatedTime": "2024-05-10T07:44:00.000Z"
+  },
+  {
+    "id": "63a9",
+    "rcdTimeStamp": 1715327255531,
+    "lastPrice": 21989.45,
+    "updatedTime": "2024-05-10T07:45:00.000Z"
+  },
+  {
+    "id": "d464",
+    "rcdTimeStamp": 1715327315497,
+    "lastPrice": 22002.25,
+    "updatedTime": "2024-05-10T07:46:00.000Z"
+  },
+  {
+    "id": "6893",
+    "rcdTimeStamp": 1715327375470,
+    "lastPrice": 21999.1,
+    "updatedTime": "2024-05-10T07:47:00.000Z"
+  },
+  {
+    "id": "8cd7",
+    "rcdTimeStamp": 1715327435471,
+    "lastPrice": 21988,
+    "updatedTime": "2024-05-10T07:48:00.000Z"
+  },
+  {
+    "id": "4abd",
+    "rcdTimeStamp": 1715327495464,
+    "lastPrice": 21991.85,
+    "updatedTime": "2024-05-10T07:49:00.000Z"
+  },
+  {
+    "id": "1928",
+    "rcdTimeStamp": 1715327555491,
+    "lastPrice": 21986.75,
+    "updatedTime": "2024-05-10T07:50:00.000Z"
+  },
+  {
+    "id": "dd8a",
+    "rcdTimeStamp": 1715327615480,
+    "lastPrice": 21996.45,
+    "updatedTime": "2024-05-10T07:51:00.000Z"
+  },
+  {
+    "id": "d56e",
+    "rcdTimeStamp": 1715327675485,
+    "lastPrice": 21994.65,
+    "updatedTime": "2024-05-10T07:52:00.000Z"
+  },
+  {
+    "id": "8135",
+    "rcdTimeStamp": 1715327735474,
+    "lastPrice": 22000.8,
+    "updatedTime": "2024-05-10T07:53:00.000Z"
+  },
+  {
+    "id": "3894",
+    "rcdTimeStamp": 1715327795469,
+    "lastPrice": 21993.75,
+    "updatedTime": "2024-05-10T07:54:00.000Z"
+  },
+  {
+    "id": "d406",
+    "rcdTimeStamp": 1715327855471,
+    "lastPrice": 21996.65,
+    "updatedTime": "2024-05-10T07:55:00.000Z"
+  },
+  {
+    "id": "0f77",
+    "rcdTimeStamp": 1715327915474,
+    "lastPrice": 21998.6,
+    "updatedTime": "2024-05-10T07:56:00.000Z"
+  },
+  {
+    "id": "60ee",
+    "rcdTimeStamp": 1715327975521,
+    "lastPrice": 21997.2,
+    "updatedTime": "2024-05-10T07:57:00.000Z"
+  },
+  {
+    "id": "c818",
+    "rcdTimeStamp": 1715328035497,
+    "lastPrice": 22010.5,
+    "updatedTime": "2024-05-10T07:58:00.000Z"
+  },
+  {
+    "id": "3ead",
+    "rcdTimeStamp": 1715328095503,
+    "lastPrice": 22013.35,
+    "updatedTime": "2024-05-10T07:59:00.000Z"
+  },
+  {
+    "id": "6b1f",
+    "rcdTimeStamp": 1715328155490,
+    "lastPrice": 22018.8,
+    "updatedTime": "2024-05-10T08:00:00.000Z"
+  },
+  {
+    "id": "9302",
+    "rcdTimeStamp": 1715328215486,
+    "lastPrice": 22036.35,
+    "updatedTime": "2024-05-10T08:01:00.000Z"
+  },
+  {
+    "id": "be8b",
+    "rcdTimeStamp": 1715328275502,
+    "lastPrice": 22033.3,
+    "updatedTime": "2024-05-10T08:02:00.000Z"
+  },
+  {
+    "id": "6974",
+    "rcdTimeStamp": 1715328335489,
+    "lastPrice": 22028.55,
+    "updatedTime": "2024-05-10T08:03:00.000Z"
+  },
+  {
+    "id": "3781",
+    "rcdTimeStamp": 1715328395500,
+    "lastPrice": 22026.15,
+    "updatedTime": "2024-05-10T08:04:00.000Z"
+  },
+  {
+    "id": "17ac",
+    "rcdTimeStamp": 1715328455481,
+    "lastPrice": 22025.15,
+    "updatedTime": "2024-05-10T08:05:00.000Z"
+  },
+  {
+    "id": "32d5",
+    "rcdTimeStamp": 1715328515507,
+    "lastPrice": 22024.15,
+    "updatedTime": "2024-05-10T08:06:00.000Z"
+  },
+  {
+    "id": "31c6",
+    "rcdTimeStamp": 1715328575471,
+    "lastPrice": 22019.8,
+    "updatedTime": "2024-05-10T08:07:00.000Z"
+  },
+  {
+    "id": "3ef0",
+    "rcdTimeStamp": 1715328635470,
+    "lastPrice": 22018.1,
+    "updatedTime": "2024-05-10T08:08:00.000Z"
+  },
+  {
+    "id": "d775",
+    "rcdTimeStamp": 1715328695482,
+    "lastPrice": 22024.8,
+    "updatedTime": "2024-05-10T08:09:00.000Z"
+  },
+  {
+    "id": "dbdc",
+    "rcdTimeStamp": 1715328755485,
+    "lastPrice": 22026.45,
+    "updatedTime": "2024-05-10T08:10:00.000Z"
+  },
+  {
+    "id": "1595",
+    "rcdTimeStamp": 1715328815564,
+    "lastPrice": 22030.15,
+    "updatedTime": "2024-05-10T08:11:00.000Z"
+  },
+  {
+    "id": "6c8b",
+    "rcdTimeStamp": 1715328875524,
+    "lastPrice": 22029.55,
+    "updatedTime": "2024-05-10T08:12:00.000Z"
+  },
+  {
+    "id": "2d0f",
+    "rcdTimeStamp": 1715328918916,
+    "lastPrice": 22033.95,
+    "updatedTime": "2024-05-10T08:13:00.000Z"
+  },
+  {
+    "id": "a623",
+    "rcdTimeStamp": 1715328921535,
+    "lastPrice": 22033.95,
+    "updatedTime": "2024-05-10T08:13:00.000Z"
+  },
+  {
+    "id": "77b7",
+    "rcdTimeStamp": 1715328950924,
+    "lastPrice": 22035.95,
+    "updatedTime": "2024-05-10T08:13:00.000Z"
+  },
+  {
+    "id": "3275",
+    "rcdTimeStamp": 1715328981481,
+    "lastPrice": 22034,
+    "updatedTime": "2024-05-10T08:14:00.000Z"
+  },
+  {
+    "id": "737a",
+    "rcdTimeStamp": 1715329011558,
+    "lastPrice": 22035.05,
+    "updatedTime": "2024-05-10T08:14:00.000Z"
+  },
+  {
+    "id": "cccc",
+    "rcdTimeStamp": 1715329055483,
+    "lastPrice": 22037.6,
+    "updatedTime": "2024-05-10T08:15:00.000Z"
+  },
+  {
+    "id": "a8c5",
+    "rcdTimeStamp": 1715329071544,
+    "lastPrice": 22037.2,
+    "updatedTime": "2024-05-10T08:15:00.000Z"
+  },
+  {
+    "id": "aa99",
+    "rcdTimeStamp": 1715329101504,
+    "lastPrice": 22036.05,
+    "updatedTime": "2024-05-10T08:16:00.000Z"
+  },
+  {
+    "id": "f43f",
+    "rcdTimeStamp": 1715329164491,
+    "lastPrice": 22030.95,
+    "updatedTime": "2024-05-10T08:17:00.000Z"
+  },
+  {
+    "id": "ae42",
+    "rcdTimeStamp": 1715329191489,
+    "lastPrice": 22027.1,
+    "updatedTime": "2024-05-10T08:17:00.000Z"
+  },
+  {
+    "id": "568b",
+    "rcdTimeStamp": 1715329221488,
+    "lastPrice": 22030.5,
+    "updatedTime": "2024-05-10T08:18:00.000Z"
+  },
+  {
+    "id": "e740",
+    "rcdTimeStamp": 1715329251494,
+    "lastPrice": 22029.8,
+    "updatedTime": "2024-05-10T08:18:00.000Z"
+  },
+  {
+    "id": "c9c8",
+    "rcdTimeStamp": 1715329281483,
+    "lastPrice": 22031.85,
+    "updatedTime": "2024-05-10T08:18:00.000Z"
+  },
+  {
+    "id": "9d56",
+    "rcdTimeStamp": 1715329344498,
+    "lastPrice": 22043.1,
+    "updatedTime": "2024-05-10T08:20:00.000Z"
+  },
+  {
+    "id": "1954",
+    "rcdTimeStamp": 1715329415516,
+    "lastPrice": 22058.5,
+    "updatedTime": "2024-05-10T08:21:00.000Z"
+  },
+  {
+    "id": "9f22",
+    "rcdTimeStamp": 1715329475495,
+    "lastPrice": 22053.25,
+    "updatedTime": "2024-05-10T08:22:00.000Z"
+  },
+  {
+    "id": "3182",
+    "rcdTimeStamp": 1715329535499,
+    "lastPrice": 22053.1,
+    "updatedTime": "2024-05-10T08:23:00.000Z"
+  },
+  {
+    "id": "e209",
+    "rcdTimeStamp": 1715329595482,
+    "lastPrice": 22053.1,
+    "updatedTime": "2024-05-10T08:24:00.000Z"
+  },
+  {
+    "id": "e537",
+    "rcdTimeStamp": 1715329655501,
+    "lastPrice": 22056.1,
+    "updatedTime": "2024-05-10T08:25:00.000Z"
+  },
+  {
+    "id": "c70e",
+    "rcdTimeStamp": 1715329715505,
+    "lastPrice": 22051.2,
+    "updatedTime": "2024-05-10T08:26:00.000Z"
+  },
+  {
+    "id": "429e",
+    "rcdTimeStamp": 1715329775539,
+    "lastPrice": 22049.65,
+    "updatedTime": "2024-05-10T08:27:00.000Z"
+  },
+  {
+    "id": "d775",
+    "rcdTimeStamp": 1715329835522,
+    "lastPrice": 22049.5,
+    "updatedTime": "2024-05-10T08:28:00.000Z"
+  },
+  {
+    "id": "3e51",
+    "rcdTimeStamp": 1715329895506,
+    "lastPrice": 22061.05,
+    "updatedTime": "2024-05-10T08:29:00.000Z"
+  },
+  {
+    "id": "d846",
+    "rcdTimeStamp": 1715329955512,
+    "lastPrice": 22060.6,
+    "updatedTime": "2024-05-10T08:30:00.000Z"
+  },
+  {
+    "id": "a527",
+    "rcdTimeStamp": 1715330015512,
+    "lastPrice": 22051.05,
+    "updatedTime": "2024-05-10T08:31:00.000Z"
+  },
+  {
+    "id": "a67e",
+    "rcdTimeStamp": 1715330075532,
+    "lastPrice": 22044.9,
+    "updatedTime": "2024-05-10T08:32:00.000Z"
+  },
+  {
+    "id": "6b79",
+    "rcdTimeStamp": 1715330135517,
+    "lastPrice": 22035.7,
+    "updatedTime": "2024-05-10T08:33:00.000Z"
+  },
+  {
+    "id": "6c15",
+    "rcdTimeStamp": 1715330195506,
+    "lastPrice": 22037.4,
+    "updatedTime": "2024-05-10T08:34:00.000Z"
+  },
+  {
+    "id": "3c93",
+    "rcdTimeStamp": 1715330255555,
+    "lastPrice": 22027.15,
+    "updatedTime": "2024-05-10T08:35:00.000Z"
+  },
+  {
+    "id": "d70d",
+    "rcdTimeStamp": 1715330315529,
+    "lastPrice": 22032.95,
+    "updatedTime": "2024-05-10T08:36:00.000Z"
+  },
+  {
+    "id": "6017",
+    "rcdTimeStamp": 1715330375541,
+    "lastPrice": 22039.5,
+    "updatedTime": "2024-05-10T08:37:00.000Z"
+  },
+  {
+    "id": "c4b2",
+    "rcdTimeStamp": 1715330435509,
+    "lastPrice": 22030.75,
+    "updatedTime": "2024-05-10T08:38:00.000Z"
+  },
+  {
+    "id": "54a8",
+    "rcdTimeStamp": 1715330495517,
+    "lastPrice": 22035,
+    "updatedTime": "2024-05-10T08:39:00.000Z"
+  },
+  {
+    "id": "984c",
+    "rcdTimeStamp": 1715330555490,
+    "lastPrice": 22036.05,
+    "updatedTime": "2024-05-10T08:40:00.000Z"
+  },
+  {
+    "id": "b9a1",
+    "rcdTimeStamp": 1715330571202,
+    "lastPrice": 22035.25,
+    "updatedTime": "2024-05-10T08:40:00.000Z"
+  },
+  {
+    "id": "5f8e",
+    "rcdTimeStamp": 1715330601488,
+    "lastPrice": 22032.05,
+    "updatedTime": "2024-05-10T08:41:00.000Z"
+  },
+  {
+    "id": "e7cd",
+    "rcdTimeStamp": 1715330632427,
+    "lastPrice": 22029.2,
+    "updatedTime": "2024-05-10T08:41:00.000Z"
+  },
+  {
+    "id": "79f1",
+    "rcdTimeStamp": 1715330675494,
+    "lastPrice": 22032.05,
+    "updatedTime": "2024-05-10T08:42:00.000Z"
+  },
+  {
+    "id": "8782",
+    "rcdTimeStamp": 1715330693672,
+    "lastPrice": 22032.05,
+    "updatedTime": "2024-05-10T08:42:00.000Z"
+  },
+  {
+    "id": "d7f6",
+    "rcdTimeStamp": 1715330721524,
+    "lastPrice": 22027.55,
+    "updatedTime": "2024-05-10T08:42:00.000Z"
+  },
+  {
+    "id": "dc35",
+    "rcdTimeStamp": 1715330751497,
+    "lastPrice": 22021.95,
+    "updatedTime": "2024-05-10T08:43:00.000Z"
+  },
+  {
+    "id": "5458",
+    "rcdTimeStamp": 1715330781492,
+    "lastPrice": 22023.5,
+    "updatedTime": "2024-05-10T08:44:00.000Z"
+  },
+  {
+    "id": "6b55",
+    "rcdTimeStamp": 1715330844491,
+    "lastPrice": 22030.05,
+    "updatedTime": "2024-05-10T08:45:00.000Z"
+  },
+  {
+    "id": "2aa5",
+    "rcdTimeStamp": 1715330915502,
+    "lastPrice": 22033.05,
+    "updatedTime": "2024-05-10T08:46:00.000Z"
+  },
+  {
+    "id": "e888",
+    "rcdTimeStamp": 1715330975525,
+    "lastPrice": 22031.95,
+    "updatedTime": "2024-05-10T08:47:00.000Z"
+  },
+  {
+    "id": "9387",
+    "rcdTimeStamp": 1715331035512,
+    "lastPrice": 22024.2,
+    "updatedTime": "2024-05-10T08:48:00.000Z"
+  },
+  {
+    "id": "8e69",
+    "rcdTimeStamp": 1715331095524,
+    "lastPrice": 22019.2,
+    "updatedTime": "2024-05-10T08:49:00.000Z"
+  },
+  {
+    "id": "461b",
+    "rcdTimeStamp": 1715331155519,
+    "lastPrice": 22024.4,
+    "updatedTime": "2024-05-10T08:50:00.000Z"
+  },
+  {
+    "id": "2453",
+    "rcdTimeStamp": 1715331215543,
+    "lastPrice": 22027.5,
+    "updatedTime": "2024-05-10T08:51:00.000Z"
+  },
+  {
+    "id": "f6f9",
+    "rcdTimeStamp": 1715331314611,
+    "lastPrice": 22019.75,
+    "updatedTime": "2024-05-10T08:53:00.000Z"
+  },
+  {
+    "id": "8bc4",
+    "rcdTimeStamp": 1715331345502,
+    "lastPrice": 22021.9,
+    "updatedTime": "2024-05-10T08:53:00.000Z"
+  },
+  {
+    "id": "8248",
+    "rcdTimeStamp": 1715331375527,
+    "lastPrice": 22027,
+    "updatedTime": "2024-05-10T08:53:00.000Z"
+  },
+  {
+    "id": "870c",
+    "rcdTimeStamp": 1715331405530,
+    "lastPrice": 22028.3,
+    "updatedTime": "2024-05-10T08:54:00.000Z"
+  },
+  {
+    "id": "6729",
+    "rcdTimeStamp": 1715331434594,
+    "lastPrice": 22023.45,
+    "updatedTime": "2024-05-10T08:54:00.000Z"
+  },
+  {
+    "id": "72da",
+    "rcdTimeStamp": 1715331465522,
+    "lastPrice": 22024.85,
+    "updatedTime": "2024-05-10T08:55:00.000Z"
+  },
+  {
+    "id": "d045",
+    "rcdTimeStamp": 1715331515504,
+    "lastPrice": 22021.75,
+    "updatedTime": "2024-05-10T08:56:00.000Z"
+  },
+  {
+    "id": "1935",
+    "rcdTimeStamp": 1715331575508,
+    "lastPrice": 22023.15,
+    "updatedTime": "2024-05-10T08:57:00.000Z"
+  },
+  {
+    "id": "266c",
+    "rcdTimeStamp": 1715331635507,
+    "lastPrice": 22022.25,
+    "updatedTime": "2024-05-10T08:58:00.000Z"
+  },
+  {
+    "id": "f754",
+    "rcdTimeStamp": 1715331695508,
+    "lastPrice": 22022.3,
+    "updatedTime": "2024-05-10T08:59:00.000Z"
+  },
+  {
+    "id": "2b70",
+    "rcdTimeStamp": 1715331755526,
+    "lastPrice": 22019.4,
+    "updatedTime": "2024-05-10T09:00:00.000Z"
+  },
+  {
+    "id": "90b8",
+    "rcdTimeStamp": 1715331815506,
+    "lastPrice": 22024.95,
+    "updatedTime": "2024-05-10T09:01:00.000Z"
+  },
+  {
+    "id": "4399",
+    "rcdTimeStamp": 1715331828015,
+    "lastPrice": 22024.95,
+    "updatedTime": "2024-05-10T09:01:00.000Z"
+  },
+  {
+    "id": "b264",
+    "rcdTimeStamp": 1715331855513,
+    "lastPrice": 22034.45,
+    "updatedTime": "2024-05-10T09:01:00.000Z"
+  },
+  {
+    "id": "0dbf",
+    "rcdTimeStamp": 1715331885509,
+    "lastPrice": 22029,
+    "updatedTime": "2024-05-10T09:02:00.000Z"
+  },
+  {
+    "id": "2615",
+    "rcdTimeStamp": 1715331935512,
+    "lastPrice": 22022.75,
+    "updatedTime": "2024-05-10T09:03:00.000Z"
+  },
+  {
+    "id": "8132",
+    "rcdTimeStamp": 1715331995539,
+    "lastPrice": 22022.1,
+    "updatedTime": "2024-05-10T09:04:00.000Z"
+  },
+  {
+    "id": "9491",
+    "rcdTimeStamp": 1715332055520,
+    "lastPrice": 22017,
+    "updatedTime": "2024-05-10T09:05:00.000Z"
+  },
+  {
+    "id": "6e65",
+    "rcdTimeStamp": 1715332115535,
+    "lastPrice": 22015.25,
+    "updatedTime": "2024-05-10T09:06:00.000Z"
+  },
+  {
+    "id": "d603",
+    "rcdTimeStamp": 1715332175518,
+    "lastPrice": 22016.7,
+    "updatedTime": "2024-05-10T09:07:00.000Z"
+  },
+  {
+    "id": "b759",
+    "rcdTimeStamp": 1715332235536,
+    "lastPrice": 22019.45,
+    "updatedTime": "2024-05-10T09:08:00.000Z"
+  },
+  {
+    "id": "700c",
+    "rcdTimeStamp": 1715332295522,
+    "lastPrice": 22014.75,
+    "updatedTime": "2024-05-10T09:09:00.000Z"
+  },
+  {
+    "id": "26fe",
+    "rcdTimeStamp": 1715332355533,
+    "lastPrice": 22017,
+    "updatedTime": "2024-05-10T09:10:00.000Z"
+  },
+  {
+    "id": "846a",
+    "rcdTimeStamp": 1715332415525,
+    "lastPrice": 22022.4,
+    "updatedTime": "2024-05-10T09:11:00.000Z"
+  },
+  {
+    "id": "d16d",
+    "rcdTimeStamp": 1715332475535,
+    "lastPrice": 22026.35,
+    "updatedTime": "2024-05-10T09:12:00.000Z"
+  },
+  {
+    "id": "858f",
+    "rcdTimeStamp": 1715332535554,
+    "lastPrice": 22030.1,
+    "updatedTime": "2024-05-10T09:13:00.000Z"
+  },
+  {
+    "id": "0034",
+    "rcdTimeStamp": 1715332595527,
+    "lastPrice": 22028.85,
+    "updatedTime": "2024-05-10T09:14:00.000Z"
+  },
+  {
+    "id": "3a23",
+    "rcdTimeStamp": 1715332655608,
+    "lastPrice": 22027.2,
+    "updatedTime": "2024-05-10T09:15:00.000Z"
+  },
+  {
+    "id": "af6d",
+    "rcdTimeStamp": 1715332671306,
+    "lastPrice": 22034.45,
+    "updatedTime": "2024-05-10T09:15:00.000Z"
+  },
+  {
+    "id": "9e54",
+    "rcdTimeStamp": 1715332695558,
+    "lastPrice": 22041.15,
+    "updatedTime": "2024-05-10T09:16:00.000Z"
+  },
+  {
+    "id": "2cf9",
+    "rcdTimeStamp": 1715332725523,
+    "lastPrice": 22036.55,
+    "updatedTime": "2024-05-10T09:16:00.000Z"
+  },
+  {
+    "id": "cae2",
+    "rcdTimeStamp": 1715332775568,
+    "lastPrice": 22029.95,
+    "updatedTime": "2024-05-10T09:17:00.000Z"
+  },
+  {
+    "id": "5be5",
+    "rcdTimeStamp": 1715332835539,
+    "lastPrice": 22029,
+    "updatedTime": "2024-05-10T09:18:00.000Z"
+  },
+  {
+    "id": "55e1",
+    "rcdTimeStamp": 1715332895548,
+    "lastPrice": 22027.8,
+    "updatedTime": "2024-05-10T09:19:00.000Z"
+  },
+  {
+    "id": "e534",
+    "rcdTimeStamp": 1715332955556,
+    "lastPrice": 22023.75,
+    "updatedTime": "2024-05-10T09:20:00.000Z"
+  },
+  {
+    "id": "60ae",
+    "rcdTimeStamp": 1715333015539,
+    "lastPrice": 22031.2,
+    "updatedTime": "2024-05-10T09:21:00.000Z"
+  },
+  {
+    "id": "c106",
+    "rcdTimeStamp": 1715333075582,
+    "lastPrice": 22029.65,
+    "updatedTime": "2024-05-10T09:22:00.000Z"
+  },
+  {
+    "id": "c0b7",
+    "rcdTimeStamp": 1715333135655,
+    "lastPrice": 22030.35,
+    "updatedTime": "2024-05-10T09:23:00.000Z"
+  },
+  {
+    "id": "a9d9",
+    "rcdTimeStamp": 1715333155752,
+    "lastPrice": 22031.05,
+    "updatedTime": "2024-05-10T09:23:00.000Z"
+  },
+  {
+    "id": "e916",
+    "rcdTimeStamp": 1715333175552,
+    "lastPrice": 22031.05,
+    "updatedTime": "2024-05-10T09:23:00.000Z"
+  },
+  {
+    "id": "1ae9",
+    "rcdTimeStamp": 1715333205621,
+    "lastPrice": 22034.15,
+    "updatedTime": "2024-05-10T09:24:00.000Z"
+  },
+  {
+    "id": "1016",
+    "rcdTimeStamp": 1715333235678,
+    "lastPrice": 22033.7,
+    "updatedTime": "2024-05-10T09:25:00.000Z"
+  },
+  {
+    "id": "6579",
+    "rcdTimeStamp": 1715333264621,
+    "lastPrice": 22032.45,
+    "updatedTime": "2024-05-10T09:25:00.000Z"
+  },
+  {
+    "id": "d7b4",
+    "rcdTimeStamp": 1715333295545,
+    "lastPrice": 22029.8,
+    "updatedTime": "2024-05-10T09:26:00.000Z"
+  },
+  {
+    "id": "96f6",
+    "rcdTimeStamp": 1715333358545,
+    "lastPrice": 22035.7,
+    "updatedTime": "2024-05-10T09:27:00.000Z"
+  },
+  {
+    "id": "5e6d",
+    "rcdTimeStamp": 1715333435551,
+    "lastPrice": 22032.5,
+    "updatedTime": "2024-05-10T09:28:00.000Z"
+  },
+  {
+    "id": "dfba",
+    "rcdTimeStamp": 1715333495557,
+    "lastPrice": 22037.75,
+    "updatedTime": "2024-05-10T09:29:00.000Z"
+  },
+  {
+    "id": "82ab",
+    "rcdTimeStamp": 1715333555548,
+    "lastPrice": 22049,
+    "updatedTime": "2024-05-10T09:30:00.000Z"
+  },
+  {
+    "id": "afc5",
+    "rcdTimeStamp": 1715333615611,
+    "lastPrice": 22051,
+    "updatedTime": "2024-05-10T09:31:00.000Z"
+  },
+  {
+    "id": "2129",
+    "rcdTimeStamp": 1715333675558,
+    "lastPrice": 22068.25,
+    "updatedTime": "2024-05-10T09:32:00.000Z"
+  },
+  {
+    "id": "5a2e",
+    "rcdTimeStamp": 1715333735528,
+    "lastPrice": 22064.85,
+    "updatedTime": "2024-05-10T09:33:00.000Z"
+  },
+  {
+    "id": "8ba1",
+    "rcdTimeStamp": 1715333795540,
+    "lastPrice": 22052.75,
+    "updatedTime": "2024-05-10T09:34:00.000Z"
+  },
+  {
+    "id": "57af",
+    "rcdTimeStamp": 1715333855552,
+    "lastPrice": 22049.75,
+    "updatedTime": "2024-05-10T09:35:00.000Z"
+  },
+  {
+    "id": "5dda",
+    "rcdTimeStamp": 1715333915566,
+    "lastPrice": 22068.5,
+    "updatedTime": "2024-05-10T09:36:00.000Z"
+  },
+  {
+    "id": "d599",
+    "rcdTimeStamp": 1715333975536,
+    "lastPrice": 22070.65,
+    "updatedTime": "2024-05-10T09:37:00.000Z"
+  },
+  {
+    "id": "7c97",
+    "rcdTimeStamp": 1715334035613,
+    "lastPrice": 22056.1,
+    "updatedTime": "2024-05-10T09:38:00.000Z"
+  },
+  {
+    "id": "ce49",
+    "rcdTimeStamp": 1715334095554,
+    "lastPrice": 22061.15,
+    "updatedTime": "2024-05-10T09:39:00.000Z"
+  },
+  {
+    "id": "9bb2",
+    "rcdTimeStamp": 1715334155565,
+    "lastPrice": 22061.6,
+    "updatedTime": "2024-05-10T09:40:00.000Z"
+  },
+  {
+    "id": "c491",
+    "rcdTimeStamp": 1715334215552,
+    "lastPrice": 22057.05,
+    "updatedTime": "2024-05-10T09:41:00.000Z"
+  },
+  {
+    "id": "8462",
+    "rcdTimeStamp": 1715334275559,
+    "lastPrice": 22051.7,
+    "updatedTime": "2024-05-10T09:42:00.000Z"
+  },
+  {
+    "id": "3e94",
+    "rcdTimeStamp": 1715334335557,
+    "lastPrice": 22058.65,
+    "updatedTime": "2024-05-10T09:43:00.000Z"
+  },
+  {
+    "id": "1eb5",
+    "rcdTimeStamp": 1715334395551,
+    "lastPrice": 22054.5,
+    "updatedTime": "2024-05-10T09:44:00.000Z"
+  },
+  {
+    "id": "db47",
+    "rcdTimeStamp": 1715334455782,
+    "lastPrice": 22054.55,
+    "updatedTime": "2024-05-10T09:45:00.000Z"
+  },
+  {
+    "id": "9089",
+    "rcdTimeStamp": 1715334515571,
+    "lastPrice": 22065.05,
+    "updatedTime": "2024-05-10T09:46:00.000Z"
+  },
+  {
+    "id": "097d",
+    "rcdTimeStamp": 1715334575613,
+    "lastPrice": 22065.25,
+    "updatedTime": "2024-05-10T09:47:00.000Z"
+  },
+  {
+    "id": "70a4",
+    "rcdTimeStamp": 1715334635564,
+    "lastPrice": 22061.85,
+    "updatedTime": "2024-05-10T09:48:00.000Z"
+  },
+  {
+    "id": "a21b",
+    "rcdTimeStamp": 1715334695557,
+    "lastPrice": 22062.45,
+    "updatedTime": "2024-05-10T09:49:00.000Z"
+  },
+  {
+    "id": "9917",
+    "rcdTimeStamp": 1715334755987,
+    "lastPrice": 22060,
+    "updatedTime": "2024-05-10T09:50:00.000Z"
+  },
+  {
+    "id": "c57a",
+    "rcdTimeStamp": 1715334815554,
+    "lastPrice": 22060.85,
+    "updatedTime": "2024-05-10T09:51:00.000Z"
+  },
+  {
+    "id": "f39a",
+    "rcdTimeStamp": 1715335178998,
+    "lastPrice": 22051.45,
+    "updatedTime": "2024-05-10T09:57:00.000Z"
+  },
+  {
+    "id": "a32c",
+    "rcdTimeStamp": 1715335209570,
+    "lastPrice": 22052.95,
+    "updatedTime": "2024-05-10T09:58:00.000Z"
+  },
+  {
+    "id": "5115",
+    "rcdTimeStamp": 1715335239574,
+    "lastPrice": 22050.5,
+    "updatedTime": "2024-05-10T09:58:00.000Z"
+  },
+  {
+    "id": "c95a",
+    "rcdTimeStamp": 1715335269561,
+    "lastPrice": 22048.05,
+    "updatedTime": "2024-05-10T09:58:00.000Z"
+  },
+  {
+    "id": "6607",
+    "rcdTimeStamp": 1715335299564,
+    "lastPrice": 22045.3,
+    "updatedTime": "2024-05-10T09:59:00.000Z"
+  },
+  {
+    "id": "ab35",
+    "rcdTimeStamp": 1715335355560,
+    "lastPrice": 22054.6,
+    "updatedTime": "2024-05-10T10:00:00.000Z"
+  },
+  {
+    "id": "4c4e",
+    "rcdTimeStamp": 1715335415580,
+    "lastPrice": 22054.6,
+    "updatedTime": "2024-05-10T10:01:00.000Z"
+  },
+  {
+    "id": "f18f",
+    "rcdTimeStamp": 1715335475576,
+    "lastPrice": 22055.2,
+    "updatedTime": "2024-05-10T10:02:00.000Z"
+  },
+  {
+    "id": "2156",
+    "rcdTimeStamp": 1715335535580,
+    "lastPrice": 22055.2,
+    "updatedTime": "2024-05-10T10:03:00.000Z"
+  },
+  {
+    "id": "200c",
+    "rcdTimeStamp": 1715335595589,
+    "lastPrice": 22055.2,
+    "updatedTime": "2024-05-10T10:04:00.000Z"
+  }
+]
